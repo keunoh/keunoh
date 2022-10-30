@@ -2,7 +2,7 @@
 
 **Welcome!** to my ✨ _special_ ✨ repository because its `Programming World` (this world) appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to know about me:
 
 - 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=springBoot&logoColor=#6DB33F"><img src="https://img.shields.io/badge/SpringSecurity-white?style=flat&logo=Spring Security&logoColor=#6DB33F">
 - 🌱 I’m currently learning ... 
