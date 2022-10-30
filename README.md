@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=springBoot&logoColor=#6DB33F"><img src="https://img.shields.io/badge/SpringSecurity-white?style=flat&logo=Spring Security&logoColor=#6DB33F">
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=#6DB33F"/>
-<img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=springBoot&logoColor=#6DB33F">
-<img src="https://img.shields.io/badge/SpringSecurity-white?style=flat&logo=Spring Security&logoColor=#6DB33F">
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keunoh&show_icons=true&theme=radical)
