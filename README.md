@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=#A8B9CC"/>
 <img src="https://img.shields.io/badge/java-red?style=flat&logo=java&logoColor=black"/>
 
 <!--
