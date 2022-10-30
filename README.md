@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Keunoh/Keunoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome!** to my ✨ _special_ ✨ repository because its `Programming World` (this world) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
