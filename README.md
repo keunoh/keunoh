@@ -1,6 +1,8 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/C-grey?style=flat&logo=C&logoColor=#A8B9CC"/>
 <img src="https://img.shields.io/badge/java-red?style=flat&logo=java&logoColor=black"/>
+![c](https://user-images.githubusercontent.com/96904103/198863058-bfbf1fab-5b89-4532-990a-4cc991907bfb.svg)
+
 
 <!--
 **Keunoh/Keunoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
