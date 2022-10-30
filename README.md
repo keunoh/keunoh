@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=CC6699"/>
 
 <!--
 **Keunoh/Keunoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
