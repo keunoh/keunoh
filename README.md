@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**Welcome!** to my ✨ _special_ ✨ repository because its `Programming World` (this world) appears on my GitHub profile.
+**Welcome!** to my ✨ _special_ ✨ repository because its `Programming World` (this world) represents what I'm doing it at the moment.
 
-Here are some ideas to know about me:
+Here are some lines to know about me:
 
 - 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Spring-grey?style=flat&logo=Spring&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/React-grey?style=flat&logo=react&logoColor=#61DAFB">
 - 🌱 I’m currently learning ... 
