@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/C-grey?style=flat&logo=C&logoColor=#A8B9CC"/>
-<img src="https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=black"/>
 <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=#6DB33F"/>
 
 <!--
