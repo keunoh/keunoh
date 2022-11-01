@@ -5,7 +5,7 @@
 Here are some lines to know about me:
 
 - 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB">
-- 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Java-black?style=flat&logo=OpenJDK&logoColor=brown"/><img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=AmazonAWS&logoColor=orange"/><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E"/><img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=Html5&logoColor=#E34F26"/><img src="https://img.shields.io/badge/css3-black?style=flat&logo=css3&logoColor=blue"/>
+- 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Java-black?style=flat&logo=OpenJDK&logoColor=brown"/><img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=AmazonAWS&logoColor=orange"/><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=#F7DF1E"/><img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=Html5&logoColor=#E34F26"/><img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3&logoColor=blue"/>
 - 👯 I’m looking to collaborate on ... people who have something good positive vibes
 - 🤔 I’m looking for help with ... very very kind people 
 - 💬 Ask me about ... what I read
