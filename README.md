@@ -17,5 +17,5 @@ Here are some lines to know about me:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunoh&hide=html5,css3&show_icons=true&theme=radical&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keunoh&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keunoh&show_icons=true&theme=radical) -->
 
