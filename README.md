@@ -10,6 +10,7 @@ Here are some lines to know about me:
 - 🤔 I’m looking for help with ... very very kind people 
 - 💬 Ask me about ... what I read
 - 📫 How to reach me: ... call me maybe
+- 🎆 This year main focus: ... Spring, HTML, CSS
 - 😄 Pronouns: ... insecure reader
 - ⚡ Fun fact: ... <img src="https://img.shields.io/badge/C-black?style=flat&logo=C&logoColor=#A8B9CC"/><img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/>
 
