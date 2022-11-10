@@ -11,7 +11,7 @@ I'm a Java Programmer by the way.
 - 🤔 I’m looking for help with ... very very kind people 
 - 💬 Ask me about ... what I read
 - 📫 How to reach me: ... call me maybe
-- 🎆 This year main focus: ... <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=#6DB33F"/>
+- 🎆 This year main focus: ... <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/Java-black?style=flat&logo=OpenJDK&logoColor=brown"/>
 - 😄 Pronouns: ... insecure reader
 - ⚡ Fun fact: ... <img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=AmazonAWS&logoColor=orange"/><img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/>
 
