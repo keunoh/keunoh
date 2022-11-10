@@ -1,8 +1,9 @@
-### Hi there I'm a Java Programmer👋
+### Hi there 👋
 
 **Welcome!** to my ✨ _special_ ✨ repository because its `Programming World` (this world) represents what I'm doing it at the moment.
 
 Here are some lines to know about me:
+I'm a Java Programmer by the way.
 
 - 🔭 I’m currently working on ... <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=#6DB33F"/><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=#61DAFB">
 - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Java-black?style=flat&logo=OpenJDK&logoColor=brown"/><img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=AmazonAWS&logoColor=orange"/><img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=#6DB33F"/>
