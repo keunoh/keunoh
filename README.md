@@ -10,7 +10,7 @@ I'm a Java Programmer by the way.
 - 📚 I'm studying as soon as possible ... <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=#4479A1"/><img src="https://img.shields.io/badge/RDB-black?style=flat&logo=Amazon RDS&logoColor=#527FFF"/>
 - 🎆 This year main focus: ... <img src="https://img.shields.io/badge/Java-black?style=flat&logo=CoffeeScript&logoColor=brown"/><img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=#6DB33F"/>
 - 😄 Pronouns: ... anti-hero
-- ⚡ Fun fact: ... <img src="https://img.shields.io/badge/Amazon AWS-black?style=flat&logo=AmazonAWS&logoColor=orange"/><img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=#3776AB"/>
+- ⚡ Fun fact: ... <img src="https://img.shields.io/badge/OOP-black?style=flat&logo=Bitrise&logoColor=orange"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keunoh&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunoh&hide=html5,css3&show_icons=true&theme=radical&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
