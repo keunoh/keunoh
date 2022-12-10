@@ -11,6 +11,3 @@ I'm a Java Programmer by the way.
 - 🎆 This year main focus: ... <img src="https://img.shields.io/badge/Consistency-black?style=flat&logo=Deno&logoColor=yellow"/>
 - 👾 Pronouns: ... Fire
 - ⚡ Fun fact: ... <img src="https://img.shields.io/badge/OOP-black?style=flat&logo=Bitrise&logoColor=orange"/><img src="https://img.shields.io/badge/Interface-black?style=flat&logo=Aseprite&logoColor=dark-green"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keunoh&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keunoh&hide=html5,css3&show_icons=true&theme=radical&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
