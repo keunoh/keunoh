@@ -10,4 +10,4 @@ I'm a Java Programmer by the way.
 - 📚 I'm studying as soon as possible ... <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=#4479A1"/><img src="https://img.shields.io/badge/Hibernate-black?style=flat&logo=Hibernate&logoColor=#59666C"/>
 - 🎆 This year main focus: ... <img src="https://img.shields.io/badge/Consistency-black?style=flat&logo=Deno&logoColor=yellow"/>
 - 👾 Pronouns: ... <img src="https://img.shields.io/badge/Hard_Worker-black?style=flat&logo=CodeIgniter&logoColor=red"/>
-- ⚡ Fun fact: ... <img src="https://img.shields.io/badge/OOP-black?style=flat&logo=Co-op&logoColor=orange"/><img src="https://img.shields.io/badge/PP-black?style=flat&logo=Instructure&logoColor=blue"/>
+- ⚡ Interested in: ... <img src="https://img.shields.io/badge/OOP-black?style=flat&logo=Co-op&logoColor=orange"/><img src="https://img.shields.io/badge/PP-black?style=flat&logo=Instructure&logoColor=blue"/>
