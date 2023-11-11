@@ -6,4 +6,5 @@
 - 📚 I'm studying soon ... <img src="https://img.shields.io/badge/Hibernate-black?style=flat&logo=Hibernate&logoColor=#59666C"/><img src="https://img.shields.io/badge/Thymeleaf-black?style=flat&logo=Thymeleaf&logoColor=green"/>
 - ⚡ I'm interested in ... <img src="https://img.shields.io/badge/Novels-black?style=flat&logo=4chan&logoColor=purple"/>
 - 🎆 This year main focus: ... <img src="https://img.shields.io/badge/Consistency-black?style=flat&logo=Deno&logoColor=yellow"/>
+- 🎑 Next year main focus: ... <img src="https://img.shields.io/badge/Solidity-black?style=flat&logo=Solidity&logoColor=#003B57"/>
 
